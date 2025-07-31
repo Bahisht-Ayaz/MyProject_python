@@ -1,0 +1,485 @@
+Project Name,Name,Email,Message,Date
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Initial commit -- stub only,2018-01-22 14:52:44-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Add dependency for common watchlist library,2018-01-22 14:54:13-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,WIP,2018-01-23 16:42:25-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,WIP,2018-01-24 16:02:26-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Add example bundle creation task to Gulp,2018-01-24 16:21:14-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,"Bump common-client-js, take fix",2018-01-24 16:26:39-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Fix gulp task for bundling code for example page,2018-01-24 16:29:00-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,WIP,2018-01-25 16:13:12-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,WIP,2018-01-29 17:11:57-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,WIP,2018-02-01 12:48:20-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,WIP,2018-02-01 15:58:26-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Tweak,2018-02-01 16:00:07-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Bump watchlist-api-common,2018-02-01 16:00:19-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,WIP,2018-02-01 18:20:07-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,"Enable watchlist actions (create, remove)",2018-02-02 11:02:30-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Bump common,2018-02-02 12:01:35-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Fix gulpfile,2018-02-02 12:03:56-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-02 12:04:09-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Fix module name,2018-02-02 12:04:49-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-02 12:05:03-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Allow creation of first watchlist,2018-02-02 12:10:43-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Fix gulpfile,2018-02-02 12:11:10-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-02 12:11:32-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Refactor gateway configuration,2018-02-02 15:20:22-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-02 15:20:45-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-02 15:38:18-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Bump common,2018-02-02 16:09:15-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-02 16:10:51-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Refactor endpoints after common-client-js upgrade,2018-02-05 15:10:19-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-05 15:10:43-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Take external module with JWT provider for TGAM,2018-02-06 14:55:16-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-06 14:55:56-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Remove erroneous license comment,2018-02-07 09:37:45-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Fix URL in package.json,2018-02-07 09:41:01-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Remove dead code,2018-02-07 09:52:53-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,"Bump common (taking additional ""email"" flag for watchlists)",2018-02-08 14:56:29-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Exclude example bundle from linting,2018-02-08 14:58:15-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-08 14:58:32-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-08 15:02:24-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,"Bump common, taking ""view"" field for watchlist",2018-02-08 16:17:23-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-08 16:17:44-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-08 16:21:40-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Refactor and simplify object model,2018-02-09 13:14:58-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Add example.js bundle,2018-02-09 13:15:39-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-09 13:15:53-06:00
+watchlist-client-js,bryaningle,bryaningle@gmail.com,Formatting,2018-02-10 13:33:03-06:00
+watchlist-client-js,bryaningle,bryaningle@gmail.com,Remove unused parameter,2018-02-10 13:33:28-06:00
+watchlist-client-js,bryaningle,bryaningle@gmail.com,Formatting,2018-02-10 13:35:57-06:00
+watchlist-client-js,bryaningle,bryaningle@gmail.com,Correct JSDoc comment,2018-02-10 13:36:49-06:00
+watchlist-client-js,bryaningle,bryaningle@gmail.com,Bump JWT provider,2018-02-12 11:23:05-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Bump dependency that used deprecated function broken in Node 8,2018-02-12 11:40:18-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Fix after changing name of JWT dependency,2018-02-12 13:56:18-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-12 13:58:03-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,"Change URL for production API, upgrade JWT provider",2018-02-13 10:06:02-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-13 10:07:43-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Lock tgam-jwt-js version,2018-02-13 14:15:35-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Formatting,2018-02-13 14:29:37-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Handle JWT authroization failures,2018-02-20 16:42:51-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Bump common,2018-02-21 10:06:49-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-21 10:07:00-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Finish integration of error handling,2018-02-21 12:08:24-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-21 12:08:40-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Bump common,2018-02-21 12:19:19-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-21 12:19:34-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Remove intentional error case from example page,2018-02-21 12:27:58-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-21 12:28:14-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Show watchlists after example page login,2018-02-21 12:29:59-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Show login error,2018-02-21 15:19:02-06:00
+watchlist-client-js,bryaningle,bryaningle@gmail.com,Add .gitignore file,2018-02-25 09:59:46-06:00
+watchlist-client-js,bryaningle,bryaningle@gmail.com,Formatting,2018-02-25 10:07:07-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,"Refactor JWT, move development token endpoint into project",2018-02-26 11:13:03-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-26 11:14:39-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Bump dependencies,2018-02-27 09:14:02-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-27 09:15:49-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Switch to variable versions,2018-02-27 13:32:44-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-27 13:33:34-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Spelling,2018-02-27 13:39:03-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Add environment name getter,2018-02-28 10:12:56-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-02-28 10:13:15-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Add staging environment,2018-03-05 09:53:49-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-03-05 11:24:10-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Correct staging environment name,2018-03-05 15:37:05-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-03-05 15:37:25-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,"Bump watchlist-api-common minor version, changed data structure",2018-03-06 11:17:58-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-03-06 11:18:58-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Bump minor version,2018-03-06 11:19:48-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-03-06 11:20:03-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-03-07 14:44:39-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-03-09 11:01:22-06:00
+watchlist-client-js,bryaningle,bryaningle@gmail.com,Release. Bump version number,2018-03-11 13:15:48-05:00
+watchlist-client-js,bryaningle,bryaningle@gmail.com,Release. Bump version number,2018-03-11 13:37:58-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-03-14 12:45:27-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,"Example page fixes for change in API (names), allow add SP500 symbols",2018-03-15 10:26:06-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,"Add ""preferences"" property to example page",2018-03-15 18:31:55-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-03-15 18:32:24-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-03-16 16:55:10-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-03-16 19:29:58-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-03-16 19:45:20-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Add watchlist level preferences to example client,2018-03-19 11:27:48-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-03-19 11:28:10-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-04-26 11:49:43-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Add server section,2018-08-27 14:45:19-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Remove global pollution,2018-08-27 15:11:32-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Switch to CNAME records that use barchart domain,2018-12-05 13:59:33-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2018-12-05 14:00:28-06:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,"Remove unused imports, formatting",2019-03-28 16:28:09-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Update JSDoc syntax,2019-06-20 13:44:03-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Update dependency minor versions. Bump minor version this.,2019-06-20 13:44:35-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2019-06-20 13:45:11-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Add ""demo"" host",2019-07-09 07:42:36-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2019-07-09 07:47:35-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Add static forDemo function,2019-07-09 11:20:51-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2019-07-09 11:21:11-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Sigh,2019-07-09 11:27:54-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2019-07-09 11:28:04-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Suppress creation of package-lock.json file,2019-07-09 15:27:37-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Upgrade tgam-jwt-js,2019-09-27 14:35:13-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,"Remove dependency on TGAM jwt library, upgrade gulp",2019-09-27 14:49:38-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Add JSHint configuration,2019-09-27 14:50:17-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Fix lint,2019-09-27 14:51:00-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Add generic jwt interceptor (after dependency removal),2019-09-27 15:03:25-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Fix,2019-09-27 15:05:34-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2019-09-27 15:05:55-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Remove redundant script (now part of build process) for example page,2019-09-27 15:31:46-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Simplify refresh logic,2019-09-27 16:39:36-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Release. Bump version number,2019-09-27 16:39:54-05:00
+watchlist-client-js,Bryan Ingle,bryan.ingle@barchart.com,Format,2019-09-27 16:41:14-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Simplify, clarify JWT acquisition",2019-09-27 17:32:06-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2019-09-27 17:32:24-05:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Add eslint,2019-12-20 15:47:06+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Add eslint. Linting.,2019-12-20 15:51:12+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,WIP. Added read and edit endpoints,2019-12-20 17:59:08+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Add new endpoints,2019-12-23 13:20:55+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Add body params for endpoints,2019-12-23 14:22:27+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,fix forDemo,2019-12-23 14:24:51+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,fix lint,2019-12-23 14:43:40+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Add websockets,2019-12-23 15:23:27+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,fix constructor for WatchlistGateway,2020-01-10 17:27:53+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Fix addSymbol endpoint,2020-01-24 14:35:56+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,refactor WebSocket,2020-01-31 16:27:46+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,add promise. linting,2020-01-31 16:32:35+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,"remove wsPort, add interval and flag for websocket",2020-01-31 17:13:07+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Add edit preferences endpoint,2020-02-03 15:24:32+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,WIP. API documentation,2020-02-10 17:27:08+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Change body for addSymbol endpoint,2020-02-11 14:45:58+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Finish API documentation,2020-02-12 16:19:51+03:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Upgrade @barchart/watchlist-api-common, bump major version",2020-05-11 14:45:02-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Remove gulp tasks for jsdoc, will use @barchart/barchart-documentation",2020-05-11 14:47:06-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,ES6,2020-05-11 14:47:48-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Rewrite README.md, enable AWS CodeBuild",2020-05-11 14:53:55-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-05-11 15:46:13-05:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,"Merge remote-tracking branch 'origin/master' into feature/new-endpoints
+
+# Conflicts:
+#	lib/gateway/WatchlistGateway.js",2020-06-01 11:04:59+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Merge and lint,2020-06-01 14:12:23+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Fix package.json,2020-06-02 18:13:28+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Added OpenAPI file,2020-06-05 16:08:52+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Updated OpenAPI file,2020-06-05 16:09:07+03:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Bump dependencies, change Gulp scripts (release, bump, lint)",2020-06-09 00:30:18-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-06-09 00:31:27-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Add WebSocket host names,2020-06-09 02:15:47-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-06-09 02:16:06-05:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Fix jsdoc,2020-06-28 14:44:05+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Removed prettier. Updated rules for ESLint.,2020-06-28 14:48:26+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Fix package.json,2020-06-28 14:49:04+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,PONG websocket response. Added refreshCallback to refresh application state.,2020-06-28 17:17:40+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Updated ESLint Rules,2020-07-01 11:43:38+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Release. Bump version number,2020-07-02 09:28:53+03:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Remove old example page (we need a new one),2020-07-03 13:02:32-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Update README,2020-07-03 15:43:17-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Remove reference to @barchart/watchlist-api-common ... it's not needed,2020-07-03 15:44:24-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Remove README_ADP.md (we use OpenAPI now),2020-07-03 15:47:29-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Include docs folder,2020-07-03 15:48:04-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Documentation site initialized (blank template),2020-07-03 15:48:32-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Initialize release notes, first public release will be 3.2.0",2020-07-03 15:50:56-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-07-04 07:34:55-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Restore code format (before eslint autoformat),2020-07-04 08:02:23-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Move hostnames to Configuration static properties (enhance JSDoc),2020-07-04 08:18:37-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Use constants,2020-07-04 08:21:46-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-07-06 08:08:01-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-07-06 08:09:38-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-07-06 08:10:22-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Add inital version of product overview page,2020-07-06 10:26:07-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-07-06 10:47:48-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Wordsmith,2020-07-06 11:05:17-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-07-06 11:06:00-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-07-06 11:08:46-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-07-06 11:09:41-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Change sidebar title,2020-07-06 11:29:57-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Remove superfluous header,2020-07-06 11:30:46-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-07-06 11:33:00-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Add inital version of ""Key Concepts: Security""",2020-07-06 15:28:58-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Fix paths for REST service (changed for backend v4.0.0),2020-07-06 16:19:49-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Add configuration for ""test"" environment",2020-07-06 16:23:55-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Update paths (and comments),2020-07-06 17:50:52-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Initial version of ""quick start"" page; correct ""test"" hostname",2020-07-06 18:16:27-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Update release notes,2020-07-06 18:17:12-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Manually update coverpage version (until tagged, tested, and released)",2020-07-06 18:17:33-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Quick Start, WIP",2020-07-06 18:37:34-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Fix headings,2020-07-06 20:40:03-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,SDK section,2020-07-06 20:41:05-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Fix heading,2020-07-06 20:41:21-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,WIP,2020-07-07 10:19:18-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Correct openapi.yaml syntax, autogenerate API documentation",2020-07-07 10:37:48-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Fix cURL command for watchlist deletion,2020-07-07 10:39:50-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Update API version (4.0.0) in OpenAPI documentation,2020-07-07 10:41:14-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-07-07 10:49:39-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Remove "".com"" from context",2020-07-07 10:52:00-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Change ""addSymbol"" parameter name to ""entry""",2020-07-07 11:06:50-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Complete ""Adding a Symbol"" section",2020-07-07 11:53:57-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Enhance ""Saving a Watchlist"" by adding example result",2020-07-07 12:01:14-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Add ""Example Output"" section",2020-07-07 12:02:09-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-07-07 12:03:42-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak id value,2020-07-07 12:04:47-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Complete ""Removing a Symbol"" section of quick start",2020-07-07 12:21:14-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Correct link to source control,2020-07-07 15:28:12-06:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Exclude docs folder from linting (fix CodeBuild),2020-07-08 13:18:53+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Tweak,2020-07-08 13:23:37+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Use 'Barchart' customer in examples,2020-07-08 13:50:17+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Tweak documentation,2020-07-08 18:09:33+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Update openapi.yaml,2020-07-09 19:23:25+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Tweak openapi.yaml api arguments,2020-07-09 19:35:05+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Tweak,2020-07-09 19:36:17+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Update documentation,2020-07-09 19:45:44+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Tweak openapi.yaml descriptions,2020-07-09 20:01:22+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Tweak docs,2020-07-09 20:02:42+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Tweaks,2020-07-13 15:08:20+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Rename 'symbol' to 'entry' (addSymbol),2020-07-13 16:08:27+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Tweak,2020-07-13 16:20:46+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Fix gulp script,2020-07-14 23:52:50+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Release. Bump version number,2020-07-14 23:53:01+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Add example page,2020-07-20 15:51:55+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Release notes 3.2.0,2020-07-20 15:53:40+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Release. Bump version number,2020-07-20 15:54:23+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Fix typo,2020-07-21 10:36:28+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Added release note,2020-07-21 10:40:42+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Release. Bump version number,2020-07-21 10:40:58+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Linting,2020-07-22 14:42:18+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Use CNAME for the websocket dev,2020-07-24 13:32:38+03:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Non-functional refactor,2020-07-24 08:46:26-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Begin adding JSDoc structures for SDK documentation,2020-07-24 09:05:48-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Rename variables for clarity, remove websocket port (for now)",2020-07-24 09:19:25-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Use null values (as default) for websocket connection,2020-07-24 09:20:32-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Use barchart CNAMES for websocket connections,2020-07-24 11:32:14-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Refactor websocket, add stub for ""querySymbol"" function",2020-07-25 07:49:02-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-07-25 07:49:48-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Fix minor bugs, issues (with websocket refactor)",2020-07-25 08:09:37-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-07-25 08:10:01-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Add ""SDK Reference"" section (auto-generate from code, first version)",2020-07-25 16:58:47-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Make constant (websocket reconnect delay),2020-07-25 17:02:03-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,PING messages should not be delivered to consumer,2020-07-25 17:03:09-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-07-25 17:10:31-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Consolidate,2020-07-25 17:12:25-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Implement WatchlistGateway.querySymbol function, add to example page",2020-07-25 17:50:53-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Define JSDoc data structure for symbol query result,2020-07-25 17:57:38-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Update JSDoc and SDK documentation,2020-07-25 18:00:41-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Add release notes,2020-07-25 18:01:45-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Correct typo,2020-07-25 18:02:16-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-07-25 18:04:14-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Remove Configuration class from SDK documentation (@ignore),2020-07-25 18:09:23-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak JSDoc,2020-07-25 18:10:58-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak JSDoc,2020-07-25 18:12:27-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak JSDoc,2020-07-25 18:13:45-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Reorder WatchlistGateway functions (order in SDK docs) and tweak JSDoc,2020-07-25 18:23:31-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Update documenatation,2020-07-25 18:24:25-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak ordering of objects in Schema namespace documentation,2020-07-25 18:25:51-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-07-25 18:26:55-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak again,2020-07-25 18:27:57-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Rename callbacks (from ""WebSocket"" to ""Subscription"") -- websocket is implementation detail",2020-07-25 18:32:15-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Update JSDoc and SDK documenation (regarding subscriptions),2020-07-25 18:37:11-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-07-25 18:38:29-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Correct,2020-07-25 19:02:56-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Change ""embed-version"" gulp script to update doc cover page",2020-07-25 19:18:54-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-07-25 19:19:48-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Remove bullet regarding ""sorting""",2020-07-25 19:24:01-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-07-25 19:26:59-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Fix link,2020-07-25 19:29:33-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Move release notes into docs folder,2020-07-25 19:33:55-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Update release notes,2020-07-25 19:34:28-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Simplify, clarify.",2020-07-25 19:47:57-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Spelling,2020-07-25 19:48:35-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Tweak (breaking changes, function rename)",2020-07-26 09:55:45-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Update release notes and SDK docs after breaking change (fn rename),2020-07-26 09:56:28-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-07-26 09:57:02-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Fix formatting,2020-07-26 09:58:10-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Regenerate documentation (fix release note whitespace),2020-07-26 09:58:34-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Fix release notes format (again),2020-07-26 09:59:35-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Add JSDoc @typedef descriptions, change function signatures, also a breaking change",2020-07-26 18:00:04-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Regererage SDK documenation from JSDoc (enhanced with data structures),2020-07-26 18:01:10-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-07-26 18:03:18-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Oops, correct release note",2020-07-26 18:05:14-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Add JS examples to Quick Start. Add index argument to addSymbol fn,2020-07-26 21:28:10-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-07-26 21:28:53-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Fix incorrect JS syntax,2020-07-26 21:30:06-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Regenrate SDK documentation,2020-07-26 21:31:45-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Improve wording,2020-07-26 21:37:05-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Improve wording,2020-07-26 21:38:01-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Standardize wording,2020-07-26 21:38:58-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-07-26 21:39:32-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-07-26 21:40:13-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Fix broken link,2020-07-26 21:41:07-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Switch header language back (to more informal),2020-07-26 21:46:12-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Correction of ES version,2020-07-26 21:48:44-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak language,2020-07-26 21:51:49-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Update dependencies,2020-07-26 21:55:32-05:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,"Added missing ""is"" dependency in the WatchlistGateway.",2020-07-27 09:50:41+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Updated release notes.,2020-07-27 09:53:21+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Release. Bump version number,2020-07-27 09:54:40+03:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Change release note text,2020-07-27 09:34:13-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Refactor JWT implementation (breaking changes),2020-07-27 15:53:30-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,File should have been removed by previous commit,2020-07-27 15:54:42-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Update test page bundle,2020-07-27 15:55:41-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Update documentation, regenerate SDK from JSDoc",2020-07-27 15:56:38-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Correct release notes formatting,2020-07-27 15:59:18-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak release notes language,2020-07-27 15:59:52-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Fix websocket connection (slightly different JWT mechanism),2020-07-27 16:12:35-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-07-27 16:47:10-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Fix,2020-07-28 09:25:39-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak description,2020-07-28 11:33:06-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Spelling,2020-07-28 11:34:13-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak README.md,2020-07-28 11:38:50-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-07-28 11:40:17-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-07-28 11:41:15-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak emphasis,2020-07-28 11:49:07-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-07-28 11:50:25-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-07-28 11:51:29-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-07-28 11:57:26-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Spelling,2020-07-28 12:57:49-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Remove reference to classes which no longer exist,2020-07-28 13:03:05-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Update version manually. Should have been done during release.,2020-07-28 13:03:44-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-07-28 13:05:30-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak imports,2020-07-28 13:22:31-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Tweak JSDoc, regenerate docs",2020-07-28 13:27:46-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Fix environment name,2020-07-28 13:30:17-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Refactor JWT implementation (continued),2020-08-11 09:40:50-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-08-11 09:42:04-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Reset version,2020-08-11 09:46:01-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Change release notes from version 6 to 7,2020-08-11 09:46:37-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Refresh documentation,2020-08-11 09:47:06-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-08-11 09:47:26-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Improve refresh logic, add static factory function",2020-08-12 14:28:35-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Fix,2020-08-12 14:54:36-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Update documenation,2020-08-12 14:55:11-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-08-12 14:55:34-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Correct ""refreshInterval"" interpretation",2020-08-13 07:34:37-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-08-13 07:35:09-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Upgrade dependencies,2020-08-13 11:46:30-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-08-13 11:47:00-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"WebSocket now expects ""token"" query string key (instead of ""Auth"")",2020-08-14 19:27:52-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-08-14 19:28:36-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Add JwtProvider.getAdmin,2020-08-15 18:58:33-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-08-15 18:59:23-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Update documentation,2020-08-15 19:01:02-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Move example page to ""browser"" folder",2020-08-16 12:49:11-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Add bundle.js back, after moving folders",2020-08-16 13:48:16-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Remove bundle.js from wrong folder (after move),2020-08-16 13:48:40-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Fix gulp tasks (after moving example application folder),2020-08-16 14:51:28-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Add release notes,2020-08-16 17:01:32-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Improve language,2020-08-16 17:34:44-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Finish ""Connecting"" section, add Node.js example script",2020-08-16 18:17:11-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-08-16 18:45:04-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Grammar,2020-08-16 18:45:32-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Enhance language, add public/private key generation instructions",2020-08-16 18:58:07-05:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Ability to change user,2020-08-17 14:45:59+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Release. Bump version number,2020-08-17 14:48:41+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Release notes,2020-08-17 14:50:41+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Disable 'Send' button on loading,2020-08-17 14:54:20+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Release. Bump version number,2020-08-17 14:54:45+03:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Add description of sample applicatinos to Quick Start section,2020-08-17 10:20:03-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Update release notes,2020-08-17 10:23:43-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Add token signing example,2020-08-17 11:30:13-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-08-17 11:31:23-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Standardize language,2020-08-17 11:58:17-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Standardize language,2020-08-17 11:59:57-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-08-17 15:27:04-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-08-17 15:29:09-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-08-17 15:31:09-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Simplify,2020-08-17 15:35:29-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Simplify,2020-08-17 15:39:16-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,tweak,2020-08-17 15:45:48-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak again,2020-08-17 15:47:28-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-08-17 15:48:17-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-08-17 15:48:39-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Fix,2020-08-17 15:49:21-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Simplify,2020-08-17 15:50:32-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-08-17 15:53:46-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Complete the ""Using the SDK"" section for JWT",2020-08-17 17:17:30-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Added ""Data Structures"" section. Completed documentation.",2020-08-17 21:59:10-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-08-17 21:59:41-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Fix copy/paste (sync readme format with alerts),2020-08-17 22:02:51-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Update,2020-08-17 22:03:28-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-08-17 22:04:12-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Gulp scripts to ""deploy"" documentation site",2020-08-17 22:12:00-05:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Sticky footer for example page,2020-08-18 14:24:23+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Fix editWatchlist usage for example page,2020-08-18 14:36:49+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Release. Bump version number,2020-08-18 14:38:38+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Admin environment,2020-08-19 13:22:36+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Ordering,2020-08-19 14:20:06+03:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Release. Bump version number,2020-08-20 11:31:32+03:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,JSDoc metadata file names changed,2020-08-20 08:32:26-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Websocket now uses ""v1"" path",2020-08-20 08:40:23-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Update hostnames,2020-08-20 08:43:25-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-08-20 08:43:47-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Fix release notes,2020-08-20 08:45:34-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Fix release notes (in documentation),2020-08-20 08:45:54-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak language,2020-09-03 19:16:46-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Add license section,2020-09-08 14:34:46-05:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak documentation (add @exported JSDoc attribute),2020-10-01 14:01:29-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-10-01 14:02:03-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-10-01 14:05:20-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Update OpenAPI to refer to curent version of watchlist API,2020-10-01 14:09:03-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-10-01 14:09:33-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Change keywords, homepage",2020-10-07 12:22:24-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Remove unecessary JSDoc annotation (@exported),2020-10-07 12:27:40-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,NPM token is not required for builds,2020-10-15 11:59:05-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Add WatchlistGateway.registerAuthorizationObserver function,2020-10-28 17:58:00-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Add release notes,2020-10-28 18:00:03-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Fix broken JSON syntax,2020-10-28 18:53:44-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Fire authorization event from updated error interceptor,2020-10-28 19:28:32-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,"Update documentation (release notes, new gateway function)",2020-10-28 19:32:05-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Release. Bump version number,2020-10-28 19:34:34-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak language,2020-10-28 19:36:35-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-10-28 19:36:56-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak again,2020-10-28 19:38:00-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-10-28 19:38:18-06:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Tweak,2020-10-29 15:55:36+01:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Release. Bump version number,2020-10-29 15:56:12+01:00
+watchlist-client-js,Igor Losev,igor.losev.it@gmail.com,Release notes 8.4.1,2020-10-29 15:58:09+01:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-10-29 09:39:04-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Tweak,2020-10-29 09:40:08-06:00
+watchlist-client-js,Bryan,bryan@Bryans-MacBook-Pro-2.local,Formatting (move code),2020-10-29 11:43:58-06:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,"Add .npmignore file (reduce package size), add NPM badge to README.md",2021-01-02 13:15:09-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Release. Bump version number,2021-01-02 13:16:24-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Tweak,2021-01-26 16:27:41-07:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,"Moved webpack.config.js to the ""example/browser"" folder.",2021-01-27 10:53:34+03:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Change links to refer to barchart domain,2021-03-02 11:45:41-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Exclude webpack.config.js from linting (this file was moved),2021-03-02 11:49:52-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Formatting,2021-03-02 11:52:13-07:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Updated common-js to v4.9.0,2021-05-06 13:34:35+03:00
+watchlist-client-js,Dzmitry Afanasenka,dzmitry.afanasenka@itechart-group.com,Release. Bump version number,2021-05-06 13:34:57+03:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Fix lint (according to ESLint),2021-12-08 09:12:25-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,"Add WatchlistGateway.readWatchlist function (reads single), update OpenAPI docs, update docs",2021-12-08 18:06:02-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Release. Bump version number,2021-12-08 18:06:59-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Fix typo,2022-02-14 15:25:33-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Update .gitignore file,2022-02-15 12:33:07-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Update .npmignore file,2022-02-15 12:34:47-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Tweak grammar,2022-02-15 12:52:33-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Tweak,2022-02-15 15:22:55-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Fix name of NPM package,2022-02-15 15:24:02-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Upgrade UUID dependency,2022-02-15 15:32:26-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Fix lint,2022-02-15 15:32:57-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Add release notes,2022-02-15 15:35:57-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Add release notes,2022-02-15 15:36:36-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Release. Bump version number,2022-02-15 15:37:08-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Alphabetize,2022-02-15 15:40:51-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Add npm-debug.log to .gitignore file,2022-02-15 15:46:34-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Add LICENSE file,2022-02-15 15:49:13-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,"Add links to solutions.barchart.com (streaming data, charts, ondemand)",2022-02-17 11:06:31-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Add link to solutions.barchart.com,2022-02-17 11:13:46-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,"Correct word ""certificate"" to ""key"" in documentation",2022-02-17 11:50:37-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Tweak documentation (related to JWT),2022-02-20 13:23:52-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,"Document ""/service"" endpoint, reorder headings in documentation",2022-02-20 13:31:59-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,"Move ""Release Notes"" back to bottom of menu list",2022-02-20 13:38:37-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,"Added a ""Testing Your Tokens"" section to ""Key Concepts: Security"" doc",2022-02-20 14:08:04-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Release. Bump version number,2022-02-20 14:08:52-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Spelling,2022-02-20 14:13:04-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,"Rename ""data_structure.md"" to ""data_structures.md""",2022-02-20 16:46:46-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Remove extra line break,2022-02-20 16:47:52-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Grammar,2022-02-20 16:48:54-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Sync _sidebar.md in releases folder,2022-02-20 16:53:04-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Grammar,2022-02-20 16:55:09-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,grammar,2022-02-20 17:20:49-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Grammar,2022-02-20 17:24:46-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Remove unnecessary emphasis,2022-02-21 12:09:04-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Add openapi.yaml to .npmignore,2022-02-25 10:50:34-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,"Add ""Demo Application"" section to ""Product Overview"" page",2022-02-27 15:01:53-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Fix grammar/typo,2022-02-28 11:12:29-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Tweak,2022-02-28 11:15:38-07:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Fix JSDoc,2024-04-17 12:00:09-06:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Fix JSDoc,2024-04-17 12:01:00-06:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Fix `index` parameter for `WatchlistGateway.addSymbol` and update `uuid` package,2024-04-17 12:14:26-06:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Release. Bump version number,2024-04-17 12:42:15-06:00
+watchlist-client-js,Bryan Ingle,bryaningle@gmail.com,Update documentation,2024-04-17 12:46:23-06:00
