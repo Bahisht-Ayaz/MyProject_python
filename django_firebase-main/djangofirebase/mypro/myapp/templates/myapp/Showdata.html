@@ -3,24 +3,27 @@
     <meta charset="UTF-8">
     <title>Title</title>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
 </head>
 <body>
 <table class="table table-border">
     <tr>
         <th>SNo</th>
         <th>Name</th>
-        <th>Gender</th>
-        <th>Phone no</th>
+        <th>Email</th>
         <th>Message</th>
+        <th>Update</th>
+        <th>Delete</th>
     </tr>
     {% for abc in con %}
         <tr>
             <td>{{ forloop.counter }}</td>
             <td>{{ abc.Name }}</td>
-            <td>{{ abc.Gender }}</td>
-            <td>{{ abc.Phoneno }}</td>
+            <td>{{ abc.Email }}</td>
             <td>{{ abc.Message }}</td>
+            <td><i class="bi bi-pencil-fill"></i></td>
+            <td><a href="{%url 'dshow' abc.id %}" class="btn btn-outline-danger" onclick="return confirm('Are you sure you want to delete{{abc.Name}} record')"><i class="bi bi-trash"></i></a></td>
+
         </tr>
 
     {% empty %}
