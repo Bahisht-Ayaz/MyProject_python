@@ -5,5 +5,6 @@ from . import views
 urlpatterns = [
     path("",views.Contacts, name="con"),
     path("show",views.ShowData, name="show"),
-    path("show/del/<str:id>", views.Delete, name="dshow")
+    path("show/del/<str:id>", views.Delete, name="dshow"),
+    path("r",views.register, name="reg")
 ]
