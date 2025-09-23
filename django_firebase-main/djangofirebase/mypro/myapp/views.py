@@ -1,4 +1,5 @@
 import requests
+from django.conf import settings
 from django.shortcuts import  render, redirect
 from mypro.firebase_config import db
 from django.contrib import messages
@@ -45,7 +46,7 @@ def register(req):
         if len(p) < 8:
             messages.error(req,"Password must be 8 characters")
             return redirect("reg")
-        url = f"https://identitytoolkit.googleapis.com/v1/accounts:signUp?key={FIREBASE_KEY}"
+        url = f"https://identitytoolkit.googleapis.com/v1/accounts:signUp?key={settings.FIRE}"
         payload = {
             "email":e,
             "password":p,
@@ -65,3 +66,38 @@ def register(req):
             return redirect("reg")
 
     return render(req,"myapp/Register.html")
+
+def login(req):
+    if req.method == "POST":
+        e = req.POST.get("email")
+        p = req.POST.get("password")
+
+        if not e or not p:
+            messages.error(req,"All fields are required")
+            return redirect("log")
+
+        url= f"https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key={settings.FIRE}"
+        payload={
+            "email":e,
+            "password":p,
+            "returnSecureToken":True
+        }
+        res = requests.post(url,json=payload)
+
+        if res.status_code == 200:
+            userinfo = res.json()
+            req.session["email"]=userinfo.get("email")
+            return redirect("d")
+        else:
+            error= res.json().get("error",{}).get("message","Message not found")
+            print(error)
+            if error =="INVALID_LOGIN_CREDENTIALS":
+                messages.error(req,"Invalid Credentials, login Again")
+            elif error == "INVALID_PASSWORD":
+                messages.error(req,"Password is incorrect")
+            return redirect("log")
+    return render(req,"myapp/login.html")
+
+def dashboard(req):
+    uemail = req.session["email"]
+    return render(req,"myapp/dashboard.html",{"e":uemail})
