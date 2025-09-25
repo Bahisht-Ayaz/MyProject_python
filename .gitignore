@@ -1,1 +1,72 @@
-\django_firebase-main\djangofirebase\venv\
+# ==========================
+# Python Bytecode & Caches
+# ==========================
+**/__pycache__/
+**/*.py[cod]
+*.pyo
+*.pyd
+
+# ==========================
+# Virtual Environments (Common Names)
+# ==========================
+venv/
+.venv/
+env/
+ENV/
+**/venv/
+**/**/venv/
+**/.venv/
+**/**/.venv/
+**/env/
+**/ENV/
+/Djangofirebase/venv/
+/django_firebase-main/venv/
+
+# ==========================
+# Django Specific
+# ==========================
+*.log
+*.pot
+*.pyc
+*.sqlite3
+**/db.sqlite3
+**/media/
+**/staticfiles/
+**/migrations/__pycache__/
+**/local_settings.py
+
+# ==========================
+# Python Environment Files
+# ==========================
+.env
+.env.*
+**/.env
+**/.env.*
+
+# ==========================
+# IDE / Editor Files
+# ==========================
+.idea/
+.vscode/
+**/.idea/
+**/.vscode/
+
+# ==========================
+# OS and Backup Files
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.bak
+*.tmp
+*.swp
+*.swo
+*.orig
+
+# ==========================
+# Excel, CSV & Temp Files
+# ==========================
+*.csv
+*.xls
+*.xlsx
+~$*

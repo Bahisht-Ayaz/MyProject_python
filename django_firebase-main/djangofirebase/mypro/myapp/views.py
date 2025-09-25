@@ -14,7 +14,7 @@ def Contacts(request):
         db.collection("contact").add({
             "Name": a,
             "Email" :b,
-            "Msg": c
+            "Msgs": c
         })
         messages.success(request,"query has been submitted")
         return redirect("con")
