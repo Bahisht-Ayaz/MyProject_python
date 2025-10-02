@@ -22,5 +22,4 @@ print(f"b value = {model.intercept_:.2f}")
 
 user_value=float(input("Enter Value : "))
 predict_value = model.predict([[user_value]])
-
 print(f"On {user_value} this study hour\nScore will be {predict_value[0]:.2f}")
